@@ -18,7 +18,7 @@
     "jshint": "^2.8.0",
     "jshint-loader": "^0.8.3",
     "node-libs-browser": "^0.5.3",
-    "webpack": "^3.1.0",
-    "webpack-dev-server": "^2.5.1"
+    "webpack": "~2.6.1",
+    "webpack-dev-server": "~2.4.2"
   }
 }
